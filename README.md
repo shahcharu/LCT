@@ -1,4 +1,3 @@
-- Designed a control system to regulate liquid levels, aiming to enhance precision in fluid handling applications.
-- Developed a PID-based system to maintain liquid levels by adjusting the speed of a DC motor-driven pump.
-- Conducted MATLAB simulations to evaluate performance metrics, including rise time and settling time.
-- Achieved an efficient control system by analyzing overshoot and steady-state error for various configurations.
+- Designed a PID-based control system to regulate liquid levels by adjusting the speed of a DC motor-driven pump
+- Conducted MATLAB simulations to evaluate system performance metrics, including rise time and settling time
+- Achieved an efficient control system by analyzing overshoot and steady-state error for various configurations
